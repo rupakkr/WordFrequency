@@ -1,0 +1,7 @@
+The reference platform for the task is a Linux 64bit system. If you do not have access to such a
+platform you should implement it on a Linux or Windows environment of your choosing, however, you
+should be prepared to explain how your solution may need to be modified to run on the reference
+platform.
+Given the attached text file as an argument, your program will read the file, and output the 20 most
+frequently used words in the file in order, along with their frequency. The output should be the same to
+that of the following bash commands, where the first argument is the text file to process:
